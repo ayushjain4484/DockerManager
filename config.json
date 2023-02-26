@@ -1,0 +1,9 @@
+{
+    "containers": [
+        {"name": "yandex/clickhouse-server"},
+        {"name": "mongo"},
+        {"name": "mysql"},
+        {"name": "neo4j:latest"},
+        {"name": "orientdb:latest"}
+      ]
+}
